@@ -1,0 +1,10 @@
+Crimson
+Blue
+Cyan
+Yellow
+Charcoal
+Coral
+Silver
+Purple
+Brown
+Red
